@@ -2,7 +2,7 @@
 
 ## screenshot
 
-![screenshot](screenshot.png)
+![screenshot](Screenshot.png)
 
 ## About this code
 
